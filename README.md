@@ -15,13 +15,17 @@ Each client has the same architecture:
 # Running the Python example
 
 cd python
+
 pip install -r requirements.txt
+
 python chat.py
 
 # Running the Ruby example
 
 cd ruby
+
 bundle install
+
 ruby chat.rb
 
 
