@@ -3,6 +3,7 @@ GEM
   specs:
     addressable (2.3.5)
     cookiejar (0.3.0)
+    curses (1.0.1)
     em-http-request (1.1.1)
       addressable (>= 2.3.4)
       cookiejar
@@ -23,6 +24,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  curses (~> 1.0.1)
   em-http-request (~> 1.1.1)
   eventmachine (~> 1.0.8)
   httparty (~> 0.12.0)
