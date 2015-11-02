@@ -11,7 +11,7 @@ GEM
       http_parser.rb (>= 0.6.0.beta.2)
     em-socksify (0.3.0)
       eventmachine (>= 1.0.0.beta.4)
-    eventmachine (1.0.3)
+    eventmachine (1.0.8)
     http_parser.rb (0.6.0.beta.2)
     httparty (0.12.0)
       json (~> 1.8)
@@ -24,5 +24,8 @@ PLATFORMS
 
 DEPENDENCIES
   em-http-request (~> 1.1.1)
-  eventmachine (~> 1.0.3)
+  eventmachine (~> 1.0.8)
   httparty (~> 0.12.0)
+
+BUNDLED WITH
+   1.10.6

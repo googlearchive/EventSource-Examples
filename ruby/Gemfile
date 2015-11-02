@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
 
-gem "eventmachine", "~> 1.0.3"
+gem "eventmachine", "~> 1.0.8"
 gem "em-http-request", "~> 1.1.1"
 gem "httparty", "~> 0.12.0"
